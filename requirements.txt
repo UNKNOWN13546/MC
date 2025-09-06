@@ -1,0 +1,6 @@
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+qrcode[pil]
+reportlab # For potential PDF generation (optional, CSV for MVP)
+python-dotenv # For environment variables (e.g., secret key)
